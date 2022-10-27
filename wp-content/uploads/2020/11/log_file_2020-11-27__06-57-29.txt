@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Startup were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://km.esy.es
+Data file = /home/u736071549/domains/km.esy.es/public_html/wp-content/plugins/airi-demo-importer/demo-content/airi-dc-startup.xml
+Widget file = /home/u736071549/domains/km.esy.es/public_html/wp-content/plugins/airi-demo-importer/demo-content/airi-w-startup.wie
+Customizer file = /home/u736071549/domains/km.esy.es/public_html/wp-content/plugins/airi-demo-importer/demo-content/airi-c-startup.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Widget already exists
+
+Footer 2 : 
+
+Text - Contact us - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Quick links - Widget already exists
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

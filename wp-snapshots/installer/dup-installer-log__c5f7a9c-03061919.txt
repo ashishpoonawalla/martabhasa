@@ -1,0 +1,1104 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 04:40:19
+* VERSION: 1.3.40.1
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.2.34                                |7.3.26
+OS__________________: Linux                                 |WINNT
+CREATED_____________: 2021-02-03 06:19:19
+WP VERSION__________: 5.6
+DUP VERSION_________: 1.3.40.1
+DB__________________: 10.4.14
+DB TABLES___________: 84
+DB ROWS_____________: 11,242
+DB FILE SIZE________: 26.16MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.3.26 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.26
+DOC ROOT____________: "C:/xampp1/htdocs/martabhasa"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/martabhasa/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "duparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/xampp1/htdocs/martabhasa/20190203_martbhasha_[HASH]_20210203061919_archive.daf"
+SIZE________________: 93.96MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+>>> DupArchive Extraction Complete
+
+--------------------------------------
+DUPARCHIVE EXTRACTION STATUS
+--------------------------------------
+Archive extracted with no errors.
+
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 04:40:19 - RUNTIME: 0.0042 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 04:40:45
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.17 -- Build Server: 10.4.14
+FILE SIZE:	dup-database__[HASH].sql (16.82MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/xampp1/htdocs/martabhasa/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	740
+
+wp_actionscheduler_actions: (64)
+wp_actionscheduler_claims: (0)
+wp_actionscheduler_groups: (4)
+wp_actionscheduler_logs: (188)
+wp_apct_testimonial_detail: (0)
+wp_aps_social_icons: (0)
+wp_commentmeta: (0)
+wp_comments: (2)
+wp_duplicator_packages: (0)
+wp_learnpress_order_itemmeta: (12)
+wp_learnpress_order_items: (3)
+wp_learnpress_question_answermeta: (0)
+wp_learnpress_question_answers: (1036)
+wp_learnpress_quiz_questions: (312)
+wp_learnpress_review_logs: (9)
+wp_learnpress_section_items: (308)
+wp_learnpress_sections: (25)
+wp_learnpress_sessions: (5)
+wp_learnpress_user_itemmeta: (14)
+wp_learnpress_user_items: (3)
+wp_links: (0)
+wp_nextend2_image_storage: (0)
+wp_nextend2_section_storage: (2)
+wp_nextend2_smartslider3_generators: (0)
+wp_nextend2_smartslider3_sliders: (2)
+wp_nextend2_smartslider3_sliders_xref: (0)
+wp_nextend2_smartslider3_slides: (6)
+wp_options: (503)
+wp_pmpro_discount_codes: (0)
+wp_pmpro_discount_codes_levels: (0)
+wp_pmpro_discount_codes_uses: (0)
+wp_pmpro_membership_levelmeta: (0)
+wp_pmpro_membership_levels: (9)
+wp_pmpro_membership_orders: (6)
+wp_pmpro_memberships_categories: (0)
+wp_pmpro_memberships_pages: (0)
+wp_pmpro_memberships_users: (4)
+wp_postmeta: (5676)
+wp_posts: (1403)
+wp_term_relationships: (106)
+wp_term_taxonomy: (52)
+wp_termmeta: (32)
+wp_terms: (52)
+wp_tutor_earnings: (0)
+wp_tutor_quiz_attempt_answers: (0)
+wp_tutor_quiz_attempts: (0)
+wp_tutor_quiz_question_answers: (0)
+wp_tutor_quiz_questions: (0)
+wp_tutor_withdraws: (0)
+wp_usermeta: (262)
+wp_users: (6)
+wp_wc_admin_note_actions: (11)
+wp_wc_admin_notes: (11)
+wp_wc_category_lookup: (12)
+wp_wc_customer_lookup: (1)
+wp_wc_download_log: (0)
+wp_wc_order_coupon_lookup: (0)
+wp_wc_order_product_lookup: (0)
+wp_wc_order_stats: (0)
+wp_wc_order_tax_lookup: (0)
+wp_wc_product_meta_lookup: (10)
+wp_wc_reserved_stock: (0)
+wp_wc_tax_rate_classes: (2)
+wp_wc_webhooks: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (0)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (9)
+wp_woocommerce_order_items: (1)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+wp_wpforms_entries: (2)
+wp_wpforms_entry_fields: (10)
+wp_wpforms_entry_meta: (0)
+wp_wpforms_tasks_meta: (13)
+wp_wppcp_group_users: (0)
+wp_wppcp_private_page: (0)
+Removed '53' cache/transient rows
+
+INSERT DATA RUNTIME: 3.7462 sec.
+STEP-2 COMPLETE @ 04:40:49 - RUNTIME: 3.7846 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 04:40:59
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "MatrBhasha"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home/u736071549/domains/km.esy.es/public_html"
+path_new______________: "C:/xampp1/htdocs/martabhasa"
+siteurl_______________: "http://localhost/martabhasa"
+url_old_______________: "http://km.esy.es"
+url_new_______________: "http://localhost/martabhasa"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    64][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:   188][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_apct_testimonial_detail"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aps_social_icons"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learnpress_order_itemmeta"____________________[ROWS:    12][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_order_items"_______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_question_answermeta"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learnpress_question_answers"__________________[ROWS:  1036][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_quiz_questions"____________________[ROWS:   312][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_review_logs"_______________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_section_items"_____________________[ROWS:   308][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_sections"__________________________[ROWS:    25][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_sessions"__________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_user_itemmeta"_____________________[ROWS:    14][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_learnpress_user_items"________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_nextend2_image_storage"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_nextend2_section_storage"_____________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_nextend2_smartslider3_generators"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_nextend2_smartslider3_sliders"________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_nextend2_smartslider3_sliders_xref"___________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_nextend2_smartslider3_slides"_________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   503][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_pmpro_discount_codes"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmpro_discount_codes_levels"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmpro_discount_codes_uses"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmpro_membership_levelmeta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmpro_membership_levels"______________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_pmpro_membership_orders"______________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_pmpro_memberships_categories"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmpro_memberships_pages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_pmpro_memberships_users"______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  5676][PG:   2][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:  1403][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   106][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    52][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:    32][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    52][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_tutor_earnings"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_tutor_quiz_attempt_answers"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_tutor_quiz_attempts"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_tutor_quiz_question_answers"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_tutor_quiz_questions"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_tutor_withdraws"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   262][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:    10][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpforms_entries"______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wpforms_entry_fields"_________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wpforms_entry_meta"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpforms_tasks_meta"___________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/u736071549/domains/km.esy.es/public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  2:"\/home\/u736071549\/domains\/km.esy.es\/public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  3:"%2Fhome%2Fu736071549%2Fdomains%2Fkm.esy.es%2Fpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  4:"\home\u736071549\domains\km.esy.es\public_html" ==> "C:/xampp1/htdocs/martabhasa"
+	SEARCH  5:"\\home\\u736071549\\domains\\km.esy.es\\public_html" => "C:\/xampp1\/htdocs\/martabhasa"
+	SEARCH  6:"%5Chome%5Cu736071549%5Cdomains%5Ckm.esy.es%5Cpublic_html" => "C%3A%2Fxampp1%2Fhtdocs%2Fmartabhasa"
+	SEARCH  7:"//km.esy.es" =====================================> "//localhost/martabhasa"
+	SEARCH  8:"\/\/km.esy.es" ===================================> "\/\/localhost\/martabhasa"
+	SEARCH  9:"%2F%2Fkm.esy.es" =================================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 10:"//www.km.esy.es" =================================> "//localhost/martabhasa"
+	SEARCH 11:"\/\/www.km.esy.es" ===============================> "\/\/localhost\/martabhasa"
+	SEARCH 12:"%2F%2Fwww.km.esy.es" =============================> "%2F%2Flocalhost%2Fmartabhasa"
+	SEARCH 13:"https://localhost/martabhasa" ====================> "http://localhost/martabhasa"
+	SEARCH 14:"https:\/\/localhost\/martabhasa" =================> "http:\/\/localhost\/martabhasa"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fmartabhasa" ============> "http%3A%2F%2Flocalhost%2Fmartabhasa"
+
+EVALUATE TABLE: "wp_wppcp_group_users"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wppcp_private_page"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:84 	|	 Rows:10189 	|	 Cells:69594 
+UPDATED:	Tables:4 	|	 Rows:1558 	|	 Cells:1935 
+ERRORS:		0 
+RUNTIME:	4.177500 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""martabhasa""
+	UPDATE DB_USER ""root""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 04:41:03 - RUNTIME: 4.2309 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================
